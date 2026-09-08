@@ -1,0 +1,9 @@
+x=10
+y=x-5
+print(y)
+y+=5
+print(y)
+y+=10
+print(y)
+y+=20
+print(y)

@@ -1,0 +1,5 @@
+print("sam","samrat vijay kshirsagar")
+print(6485+6485)
+print("bhai tu itana cute kay se hai",'yes bro')
+print(121/2)
+print(444*5, 44+55)

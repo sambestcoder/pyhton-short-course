@@ -1,0 +1,9 @@
+# For loop 
+
+# how to you make 8 table#
+for i in range(1,11,1):
+    print("8*", i, "=", 8*i)
+print()
+
+for k in range(2, 201, 3):
+    print(k)
